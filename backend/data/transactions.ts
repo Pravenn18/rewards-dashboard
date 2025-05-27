@@ -1,0 +1,23 @@
+export const transactions = [
+    { id: '1', date: '2025-05-01', category: 'Shopping', points: 50 },
+    { id: '2', date: '2025-05-02', category: 'Dining', points: 20 },
+    { id: '3', date: '2025-05-03', category: 'Travel', points: 40 },
+    { id: '4', date: '2025-05-04', category: 'Groceries', points: 30 },
+    { id: '5', date: '2025-05-05', category: 'Dining', points: 25 },
+    { id: '6', date: '2025-05-06', category: 'Shopping', points: 60 },
+    { id: '7', date: '2025-05-07', category: 'Travel', points: 35 },
+    { id: '8', date: '2025-05-08', category: 'Dining', points: 15 },
+    { id: '9', date: '2025-05-09', category: 'Groceries', points: 45 },
+    { id: '10', date: '2025-05-10', category: 'Shopping', points: 55 },
+    { id: '11', date: '2025-05-11', category: 'Dining', points: 10 },
+    { id: '12', date: '2025-05-12', category: 'Travel', points: 50 },
+    { id: '13', date: '2025-05-13', category: 'Groceries', points: 60 },
+    { id: '14', date: '2025-05-14', category: 'Dining', points: 20 },
+    { id: '15', date: '2025-05-15', category: 'Shopping', points: 30 },
+    { id: '16', date: '2025-05-16', category: 'Travel', points: 70 },
+    { id: '17', date: '2025-05-17', category: 'Groceries', points: 25 },
+    { id: '18', date: '2025-05-18', category: 'Dining', points: 35 },
+    { id: '19', date: '2025-05-19', category: 'Shopping', points: 40 },
+    { id: '20', date: '2025-05-20', category: 'Travel', points: 65 },
+  ];
+  
